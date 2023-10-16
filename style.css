@@ -1,0 +1,108 @@
+body, h1, h2, p, ul, li, dd {
+    margin: 0;
+    padding: 0;
+}
+
+section p{
+    margin-bottom: 10px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 24px;
+    color: #ffcc00;
+    Font-family:"Consolas";
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffcc; 
+    color: #333;
+    line-height: 1.5;
+}
+
+header {
+    background-color: #ffcc00; 
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-family:"Calisto MT";
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+section, div {
+    border-radius: 30px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+}
+
+figure{
+    margin: 0px;
+}
+
+h2, li, dd {
+    margin-bottom: 10px;
+}
+
+dd, ul {
+    margin-left: 20px;
+}
+
+ul {
+    list-style: disc;
+}
+
+footer {
+    background-color: #ffcc00;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+footer p {
+    margin: 0;
+}
+
+textarea{
+    resize: none;
+    width: 500px;
+    height: 150px;
+}
+
+.turbina {
+    border-radius: 30px;
+    padding: 0;
+    background-color: #ffffcc ;
+}
+
+.turbina img {
+    border-radius: 30px;
+    width: 100%;
+}
+
+header img {
+    width: 100px; 
+    height: 50px;
+    margin: 10px;
+    float: left;
+    padding-left: 20px;
+}
