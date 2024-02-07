@@ -100,8 +100,8 @@ textarea{
 }
 
 header img {
-    width: 100px; 
-    height: 50px;
+    max-width: 100px; 
+    max-height: 50px;
     margin: 10px;
     float: left;
     padding-left: 20px;
